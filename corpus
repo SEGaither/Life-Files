@@ -1,1 +1,11 @@
 
+This folder is the sole canonical corpus for governed agentic analysis.
+
+Rules:
+- Only files under this directory are in scope.
+- Subfolders are allowed.
+- Binary and unsupported files may be skipped by agents.
+- Commit history is the authoritative temporal signal.
+- No files outside this directory may be referenced.
+
+This file exists to enforce scope discipline.
